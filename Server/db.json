@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "React js",
+      "author": "RA"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "body",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "",
+      "age": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "age": "",
+      "id": 4
+    }
+  ]
+}
